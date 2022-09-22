@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -u C,C++,GO
+sort | uniq -u
