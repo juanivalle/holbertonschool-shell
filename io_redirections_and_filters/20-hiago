@@ -1,0 +1,2 @@
+#°/bin/bash
+echo "Chicago" | tr -d Cc
