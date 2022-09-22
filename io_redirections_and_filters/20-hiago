@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Chicago" | tr -d Cc
+echo "We an program your personal and business faebook pages to automatially Post Daily interesting omments and pitures for you" | tr -d Cc
