@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -s -d' \n' | cut -s expr $n % 2 != 0
+paste -s -d '.\n'
